@@ -1,0 +1,25 @@
+_repo: Sokkosilla-b-Nelinaytoksinen-naytelma-Upton-Sinclairin-romaanin-mukaan_74561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hokkanen, Juho
+    gutenberg_agent_id: '57555'
+    url: http://www.gutenberg.org/2009/agents/57555
+description: ''
+gutenberg_issued: '2024-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74561'
+language: fi
+pgterms:marc905: 20240813045603hokkanen
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sokkosilla : $b Nelinäytöksinen näytelmä Upton Sinclairin romaanin mukaan'
+url: http://www.gutenberg.org/ebooks/74561
