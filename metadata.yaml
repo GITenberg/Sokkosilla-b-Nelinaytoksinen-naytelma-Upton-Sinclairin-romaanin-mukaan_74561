@@ -1,11 +1,16 @@
 _repo: Sokkosilla-b-Nelinaytoksinen-naytelma-Upton-Sinclairin-romaanin-mukaan_74561
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hokkanen, Juho
     gutenberg_agent_id: '57555'
     url: http://www.gutenberg.org/2009/agents/57555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74561#Sokkosilla-b-Nelinaytoksinen-naytelma-Upton-Sinclairin-romaanin-mukaan
 gutenberg_issued: '2024-10-11'
 gutenberg_type: Text
 identifiers:
